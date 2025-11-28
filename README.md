@@ -1,5 +1,3 @@
-#  **Experiment 4: RLC Circuits — Resonance, Voltage, Current, Power & Power Factor**
-
 #  **Experiment 4.	(a) Experimental determination of the frequency response of Series Resonant RLC Circuits. **
 
 ##  **Aim**
