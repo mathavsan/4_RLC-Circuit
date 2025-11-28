@@ -174,9 +174,3 @@ To study and measure **voltage**, **current**, **power**, and **power factor** i
 The **voltage, current, power and power factor** of the **parallel RLC circuit** are successfully verified.
 
 ---
-
-
-# ⭐ **Repository Usage Instructions**
-- Create folder: `/images/`  
-- Upload all diagrams, tables & calculations  
-- Replace placeholders like:  
